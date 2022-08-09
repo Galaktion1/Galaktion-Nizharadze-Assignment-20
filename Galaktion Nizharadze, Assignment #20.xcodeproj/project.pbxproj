@@ -56,15 +56,23 @@
 		9A942F0628A2430100708E18 /* Galaktion Nizharadze, Assignment #20 */ = {
 			isa = PBXGroup;
 			children = (
-				9A942F0728A2430100708E18 /* AppDelegate.swift */,
-				9A942F0928A2430100708E18 /* SceneDelegate.swift */,
+				9A942F1B28A2431A00708E18 /* SupportingFiles */,
 				9A942F0B28A2430100708E18 /* ViewController.swift */,
 				9A942F0D28A2430100708E18 /* Main.storyboard */,
+			);
+			path = "Galaktion Nizharadze, Assignment #20";
+			sourceTree = "<group>";
+		};
+		9A942F1B28A2431A00708E18 /* SupportingFiles */ = {
+			isa = PBXGroup;
+			children = (
+				9A942F0728A2430100708E18 /* AppDelegate.swift */,
+				9A942F0928A2430100708E18 /* SceneDelegate.swift */,
 				9A942F1028A2430400708E18 /* Assets.xcassets */,
 				9A942F1228A2430400708E18 /* LaunchScreen.storyboard */,
 				9A942F1528A2430400708E18 /* Info.plist */,
 			);
-			path = "Galaktion Nizharadze, Assignment #20";
+			path = SupportingFiles;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -289,7 +297,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 9BZ4794R5K;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "Galaktion Nizharadze, Assignment #20/Info.plist";
+				INFOPLIST_FILE = "Galaktion Nizharadze, Assignment #20/SupportingFiles/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -317,7 +325,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 9BZ4794R5K;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "Galaktion Nizharadze, Assignment #20/Info.plist";
+				INFOPLIST_FILE = "Galaktion Nizharadze, Assignment #20/SupportingFiles/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
